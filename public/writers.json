@@ -1,0 +1,57 @@
+[
+{
+    "id":1,
+"name":"Audre Lorde",
+"avatar":"Audre Lorde",
+"email":"audrelorde@gmail.com",
+"phone":"1-773-454-3645",
+"bio":"she id nds njuyjiujjybt jjdj bgu"
+
+},
+{
+"id":2,
+"name":"belle_hooks",
+"avatar":"belle_hooks",
+"email":"bellehooks@gmail.com",
+"phone":"1-773-254-3665",
+"bio":"she id nds njuyjiujjybt jjdj bgu"
+},
+  {
+    "id":3,
+    "name":"du_bois",
+    "avatar":"du_bois",
+    "email":"dubois@gmail.com",
+    "phone":"1-773-452-3641",
+    "bio":"she id nds njuyjiujjybt jjdj bgu"
+    
+  },
+  
+  {
+    "id":4,
+    "name":"james_baldwin",
+    "avatar":"james_baldwin",
+    "email":"jamesbaldwin@gmail.com",
+    "phone":"1-873-474-4665",
+    "bio":"she id nds njuyjiujjybt jjdj bgu"
+    
+  },
+
+  {
+    "id":5,
+    "name":"lanston_hughes",
+    "avatar":"lanston_hughes",
+    "email":"lanstonhughes@gmail.com",
+    "phone":"1-773-434-3145",
+    "bio":"she id nds njuyjiujjybt jjdj bgu"
+    
+  },
+  {
+    "id":1,
+    "name":"maya_angelou",
+    "avatar":"maya_angelou",
+    "email":"maya_angelou@gmail.com",
+    "phone":"1-473-414-3669",
+    "bio":"she id nds njuyjiujjybt jjdj bgu"
+    
+  }
+]
