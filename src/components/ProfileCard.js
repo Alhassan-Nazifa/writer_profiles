@@ -11,10 +11,10 @@ height="300px" width="300px" alt={writer.img}/>
 <p>{writer.phone}</p>
  
 
-<button className='actionBtn' onClick={this.handleClick}>Read Bio</button>
+<button className='actionBtn' >Read Bio</button>
 
 </div>
 </div>
 )
 }
-export default ProfileCard
+export default ProfileCard;
